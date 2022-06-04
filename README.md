@@ -1,0 +1,1 @@
+I created this website to learn some basics about web development.
