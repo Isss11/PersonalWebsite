@@ -1,0 +1,11 @@
+h2#wtrTitle {
+    float: left;
+}
+
+img {
+    float: right;
+}
+
+p {
+    float: clear;
+}

@@ -1,9 +1,12 @@
 img#isaiahImage {
     width: 50%;
     float: left;
-    margin: 0vh 2vw;
+    margin: 0em 1em;
 }
 
 p#contactInfo {
-    margin-top: 20vh;
+    float: clear;
+    margin-top: 2em;
+    padding: 0;
+    border: 1px dashed black;
 }
