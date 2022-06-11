@@ -1,0 +1,9 @@
+img#isaiahImage {
+    width: 50%;
+    float: left;
+    margin: 0vh 2vw;
+}
+
+p#contactInfo {
+    margin-top: 20vh;
+}

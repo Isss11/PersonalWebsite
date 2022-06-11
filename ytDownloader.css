@@ -1,0 +1,9 @@
+img#beforePicture {
+    float: left;
+    width: 50%
+}
+
+img#afterPicture {
+    clear: left;
+    width: 50%;
+}
