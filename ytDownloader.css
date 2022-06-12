@@ -1,9 +1,12 @@
 img#beforePicture {
-    float: left;
-    width: 50%
+    width: 75%
 }
 
 img#afterPicture {
-    clear: left;
-    width: 50%;
+    width: 75%;
+}
+
+img {
+    margin-left: 1em;
+    margin-right: 1em;
 }
