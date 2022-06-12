@@ -1,14 +1,10 @@
 .miniSquares {
-    width: 40%;
+    width: 45%;
     object-fit: cover;
-}
-
-.miniSquaresWrapper {
-    flex: flex;
-    margin: 0.5em 2em;
+    margin: 0em 0.5em;
 }
 
 img#fullApplicationImage {
-    margin: 0.5em 2em;
+    padding: 0.5em 2em;
+    width: 100%;
 }
-
