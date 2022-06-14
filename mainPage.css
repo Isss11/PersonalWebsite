@@ -9,8 +9,10 @@ p {
 }
 
 p#contactInfo {
-    float: clear;
-    margin-top: 2em;
-    padding: 0;
+    margin: 2em 1em;
     border: 1px dashed black;
+}
+
+footer {
+    clear: left;
 }
