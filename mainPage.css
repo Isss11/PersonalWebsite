@@ -5,13 +5,18 @@ img#isaiahImage {
     margin-right: 1em;
 }
 
-p#contactInfo {
-    margin-top: 2em;
-    margin-left: 2em;
+.logos {
+    width: 20%;
+}
+
+.container {
     margin-right: 1em;
-    border: 1px dashed black;
 }
 
 footer {
     clear: left;
+}
+
+p {
+    font-size: 1.5em;
 }
