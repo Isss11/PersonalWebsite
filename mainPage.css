@@ -1,15 +1,14 @@
 img#isaiahImage {
     width: 50%;
     float: left;
-    margin: 0.5em 1em;
-}
-
-p {
-    margin: 0.5em 1em;
+    margin-left: 1em;
+    margin-right: 1em;
 }
 
 p#contactInfo {
-    margin: 2em 1em;
+    margin-top: 2em;
+    margin-left: 2em;
+    margin-right: 1em;
     border: 1px dashed black;
 }
 
